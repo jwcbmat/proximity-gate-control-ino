@@ -12,7 +12,7 @@ This project demonstrates a simple proximity-based gate control system using an 
 
 ## Wiring Diagram
 
-![Wiring Diagram](materials/proximity-gate-control.pdf)
+![Wiring Diagram](materials/proximity-gate-control.png)
 
 A schematic of the wiring is provided below. Make sure to follow the pin connections correctly to avoid errors in operation:
 
