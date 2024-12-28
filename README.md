@@ -12,7 +12,7 @@ This project demonstrates a simple proximity-based gate control system using an 
 
 ## Wiring Diagram
 
-[Diagram](materials/proximity-gate-control.mp4)
+![Wiring Diagram](materials/proximity-gate-control.pdf)
 
 A schematic of the wiring is provided below. Make sure to follow the pin connections correctly to avoid errors in operation:
 
@@ -34,7 +34,7 @@ A schematic of the wiring is provided below. Make sure to follow the pin connect
 ## Video
 You can view a demonstration of this project in the video below:
 
-[Video Demonstration](materials/video.mp4)
+[![Video Demonstration](https://img.youtube.com/vi/vnopWCyeYL4/0.jpg)](https://youtube.com/shorts/vnopWCyeYL4?feature=share)
 
 ## TinkerCAD Link
 You can find the full project simulation on TinkerCAD. Here’s the link to view or modify the circuit:
